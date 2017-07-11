@@ -4,16 +4,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Sample", ".", "{151C4BF2-E33D-4171-B25B-51F31E59B20D}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{eb214869-0f74-46f5-821c-c4140334329b}|BL.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/Sample"
 		Debug.AspNetCompiler.PhysicalPath = "..\Sample\"
-		Debug.AspNetCompiler.TargetPath = "d:\Sample"
+		Debug.AspNetCompiler.TargetPath = "..\..\Sample\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/Sample"
 		Release.AspNetCompiler.PhysicalPath = "..\Sample\"
-		Release.AspNetCompiler.TargetPath = "d:\Sample"
+		Release.AspNetCompiler.TargetPath = "..\..\Sample\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
@@ -22,13 +23,22 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Sample", ".", "{151C4BF2-E3
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "..\BL\BL.csproj", "{EB214869-0F74-46F5-821C-C4140334329B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{151C4BF2-E33D-4171-B25B-51F31E59B20D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{151C4BF2-E33D-4171-B25B-51F31E59B20D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151C4BF2-E33D-4171-B25B-51F31E59B20D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{151C4BF2-E33D-4171-B25B-51F31E59B20D}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{EB214869-0F74-46F5-821C-C4140334329B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB214869-0F74-46F5-821C-C4140334329B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB214869-0F74-46F5-821C-C4140334329B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB214869-0F74-46F5-821C-C4140334329B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
