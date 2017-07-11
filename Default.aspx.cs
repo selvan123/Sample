@@ -10,7 +10,7 @@ public partial class _Default : System.Web.UI.Page
     protected void Page_Load(object sender, EventArgs e)
     {
         BL.Class1 obj = new BL.Class1();
-        obj.Add(1, 3);
+        obj.Add(1, 5);
 
     }
 }
