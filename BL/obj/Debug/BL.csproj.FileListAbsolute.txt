@@ -1,0 +1,5 @@
+D:\DOTNETProjects\BL\bin\Debug\BL.dll
+D:\DOTNETProjects\BL\bin\Debug\BL.pdb
+D:\DOTNETProjects\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\DOTNETProjects\BL\obj\Debug\BL.dll
+D:\DOTNETProjects\BL\obj\Debug\BL.pdb
