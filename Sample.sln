@@ -7,14 +7,14 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Sample", ".", "{151C4BF2-E3
 		ProjectReferences = ""
 		Debug.AspNetCompiler.VirtualPath = "/Sample"
 		Debug.AspNetCompiler.PhysicalPath = "..\Sample\"
-		Debug.AspNetCompiler.TargetPath = "D:\Sample\"
+		Debug.AspNetCompiler.TargetPath = "C:\Sample\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/Sample"
 		Release.AspNetCompiler.PhysicalPath = "..\Sample\"
-		Release.AspNetCompiler.TargetPath = "D:\Sample\"
+		Release.AspNetCompiler.TargetPath = "C:\Sample\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
@@ -23,7 +23,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Sample", ".", "{151C4BF2-E3
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "..\Sample\BL\BL.csproj", "{EB214869-0F74-46F5-821C-C4140334329B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{EB214869-0F74-46F5-821C-C4140334329B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
