@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        Welcome to .NET demo</div>
+        Hello World</div>
     </form>
 </body>
 </html>
