@@ -10,7 +10,9 @@ namespace BL
     {
         public int Add(int a, int b)
         {
+            int i;
             return a + b;
+            int j;
         }
     }
 }

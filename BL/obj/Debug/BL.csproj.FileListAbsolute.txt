@@ -3,3 +3,10 @@ D:\DOTNETProjects\BL\bin\Debug\BL.pdb
 D:\DOTNETProjects\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
 D:\DOTNETProjects\BL\obj\Debug\BL.dll
 D:\DOTNETProjects\BL\obj\Debug\BL.pdb
+D:\DOTNETProjects\Sample\BL\bin\Debug\BL.dll
+D:\DOTNETProjects\Sample\BL\bin\Debug\BL.pdb
+D:\DOTNETProjects\Sample\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\DOTNETProjects\Sample\BL\obj\Debug\BL.dll
+D:\DOTNETProjects\Sample\BL\obj\Debug\BL.pdb
+D:\DOTNETProjects\Sample\BL\bin\Debug\BL.dll.CodeAnalysisLog.xml
+D:\DOTNETProjects\Sample\BL\bin\Debug\BL.dll.lastcodeanalysissucceeded
